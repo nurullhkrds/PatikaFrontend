@@ -1,0 +1,25 @@
+body {
+    background-color: #FFFFFF;
+}
+.bbox {
+    border: 0;
+    width: 90%;
+}
+
+.sbox {
+    background-color: #EEEEEE;
+}
+
+.box1 {
+    width: 37%;
+    background-color: #7EE5DA;
+}
+
+.box2 {
+    background-color: #70CCC2;
+}
+
+.box3 {
+    text-align: right;
+    background-color: #62B3AA;
+}
