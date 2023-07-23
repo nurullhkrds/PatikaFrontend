@@ -1,0 +1,33 @@
+/*******************************menu ve liste ortalama*********************/
+.ortala {
+    list-style: none;
+    text-align: center;
+}
+
+.menu-o {
+    display: inline;
+}
+/*************************font family ********************/
+.k-font {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.k-font-2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+/************************ font size************/
+.k-font-25 {
+    font-size: 25px;
+}
+
+.k-font-15 {
+    font-size: 15px;
+}
+/********************************** font color ******************/
+.k-color {
+    color: cadetblue;
+}
+
+.k-color-2 {
+    color: cornflowerblue;
+}
