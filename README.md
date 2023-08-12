@@ -8,9 +8,9 @@
    <td>
    <h2>Html, Css, Javascript</h2>
    <img height="100px" width="150px" src="https://github.com/nurullhkrds/PatikaFrontend/blob/main/images/asiankitchenmenuimage/1.png" />
-    <img height="100px" width="150px" src=".../images/asiankitchenmenuimage/2.png" />
-   <img height="100px" width="150px" src=".../images/asiankitchenmenuimage/3.png" />
-   <img height="100px" width="150px" src=".../images/asiankitchenmenuimage/4.png" />
+    <img height="100px" width="150px" src="https://github.com/nurullhkrds/PatikaFrontend/blob/main/images/asiankitchenmenuimage/2.png" />
+   <img height="100px" width="150px" src="https://github.com/nurullhkrds/PatikaFrontend/blob/main/images/asiankitchenmenuimage/3.png" />
+   <img height="100px" width="150px" src="https://github.com/nurullhkrds/PatikaFrontend/blob/main/images/asiankitchenmenuimage/4.png" />
 
    
    </td>
